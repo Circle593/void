@@ -1,2 +1,2 @@
-# BoyzBot
+# no
 Da bot
